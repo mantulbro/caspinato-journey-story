@@ -10,7 +10,7 @@
     "pengeluaran hk",
     "keluaran hk hari ini"
   ],
-  "repository": "https://github.com/mantulbro/caspinato-journey-story/",
+  "repository": "https://github.com/mantulbro/caspinato-journey-story",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
